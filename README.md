@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Mohan Krishna Balli
-- 👀 I’m interested in all things JavaScript
+- 👋 Hi, I’m Mohan Krishna Balli, I'm a tech enthusiast who's fascinated by the mysteries of space and the limitless possibilities of coding.
 
 
 <!---
